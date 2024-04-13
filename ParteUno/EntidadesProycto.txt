@@ -1,0 +1,55 @@
+Hotel:
+*Nombre
+*Direccion----key
+*Telefono
+
+Habitacion:
+*Numero de habitacion----key
+*Tipo de habitacion
+*Estado
+*Precio
+
+Cliente:
+*Cedula-----key
+*Nombre
+*Tipo
+
+Huesped: (No se si se complementa con cliente)
+*Nombre
+*Fecha de check in
+*fecha de check out
+
+Reserva:
+*Fecha de entrada
+*N° dias
+
+Recepcion:
+*Nombre
+*Usuario
+*contraseña
+
+Administrador:
+*Nombre
+*Usuario
+*Contraseña
+
+Usuario:
+*Nombre
+*Usuario
+*Tipo usuario
+*contraseña
+
+Servicio:
+*Tipo (restaurante, bar, etc)
+*fecha y hora
+*costo
+
+Factura:
+*NUmero de factura
+*total a pagar
+*detalles del servicio
+
+Informe:
+Por definir
+
+
